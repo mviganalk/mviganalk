@@ -1,4 +1,3 @@
-
 ### Hi there 👋, I'm Vigan Alkharami
 #### I am Data Analyst 
 ![I am Data Analyst ](https://media.licdn.com/dms/image/D5616AQGMs0n93jhMIw/profile-displaybackgroundimage-shrink_350_1400/0/1697519313305?e=1703116800&v=beta&t=bjbZy41Biq_7wwesvJFh5ad5c8HHaX3MZZu791a_fWw)
@@ -7,7 +6,12 @@ I am a data analyst with a strong passion with data-driven, detail-oriented prof
 
 Skills: SQL / Python / Tableau / Powe BI / Statistical Analytics
 
-- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: mvigan77@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mviganalk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mviganalkharami/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/viganalk_/)  
+
+![Profile views](https://gpvc.arturio.dev/mviganalk)  
 
 
 
